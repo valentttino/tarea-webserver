@@ -2,6 +2,8 @@
 
 Tarea de DSW sobre crear un primer servidor web que cumpla con algunas características.
 
+## Características 
+
 En este caso, las que cumple este proyecto son:
 * Devuelve las páginas solicitadas desde una subcarpeta static solo por método get.
 * Da error por web (404) si no existe la página.
